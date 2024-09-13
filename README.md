@@ -4,7 +4,7 @@
 
 Vous pouvez trouver des [ASCII art](https://en.wikipedia.org/wiki/ASCII_art) simples sur le site [ASCII art archive](https://www.asciiart.eu/) ou construire les votres à partir d'images et de ce [générateur](https://www.ascii-art-generator.org/).
 
-L'objectif de cet exercice est d'encoder uen chaine de caractères par une liste de tuples. Chaque tuple est composé d’un caractère (et d’un seul) et du nombre d’occurences consécutives de ce caractère. Par exemple :
+L'objectif de cet exercice est d'encoder une chaine de caractères par une liste de tuples. Chaque tuple est composé d’un caractère (et d’un seul) et du nombre d’occurences consécutives de ce caractère. Par exemple :
 
 - la chaîne MMMMaaacXolloMM
 - est représentée par la liste [('M', 4), ('a', 3), ('c', 1), ('X', 1), ('o', 1), ('l', 2), ('o', 1), ('M', 2)]
